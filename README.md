@@ -4,7 +4,7 @@ A plugin to cut audio files. You pass in a path to a file, start_time and end_ti
 
 # Getting Started
 
-Import and cut using [audio_trim](https://aliasai-dcb87--preview-name-35k4isxq.web.app/
+Import and cut using [audio_trim](http://localhost:62545/welcome
 ) to cut audio without using [localhost]([http://localhost:52183/welcome](https://aliasai-dcb87--preview-name-35k4isxq.web.app/)) library!
 ```dart
 AudioTrimmer audioTrimmer;
